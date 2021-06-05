@@ -1,3 +1,42 @@
+# git
+
+### Get git:
+
+```sh
+$ git clone $GIT_NETWORKADDRESS
+```
+
+### Check directory status:
+
+```sh
+$ git status
+```
+
+### Add git:
+
+```sh
+$ git add $File_NAME
+```
+
+### Commit git:
+
+```sh
+$ git commit -m 'add a command'
+```
+
+### Config git:
+
+```sh
+$ git config --global user.name "$GIT_NAME"
+$ git config --global user.email "$GIT_EMAIL"
+```
+
+### Push git:
+
+```sh
+$ git push
+```
+
 # nptu_cc
 
 ### Check images:
